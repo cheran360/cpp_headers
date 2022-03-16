@@ -1,5 +1,8 @@
 #include <iostream>
-#include "includes/calculations.cpp"
+#include "includes/calculations.h"
+
+// can use this in terminal
+// g++ -o main.exe main.cpp includes/calculations.cpp 
 
 int main(){
 
